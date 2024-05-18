@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viren</h1>
-<h3 align="center">I am passionate about coding from India</h3>
+<h3 align="center">I am passionate about Software development from India</h3>
 
-- 🌱 I’m currently learning **React,Flutter,ML,Node,Mongodb,Firebase**
+- 🌱 I’m currently I am  **Full Stack Software Developer **
 
-- 📫 How to reach me **Viren_sharma192@protonmail.com**
+- 📫 How to reach me **virendev1107@gmail.com**
 
 - ⚡ Fun fact **I appricate music and playing cricket**
 
